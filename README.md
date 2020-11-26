@@ -7,6 +7,8 @@ Support vector machine is a type of classification machine learning algorithm in
 This is sklearn's digits dataset which consists of array of handwritten digits.
 With the help of Matplotlib we can visualize the data
 
+# Zero
 ![](visuals/zero.png)
 
+# One
 ![](visuals/one.png)
