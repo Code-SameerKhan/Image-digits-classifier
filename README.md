@@ -12,3 +12,17 @@ With the help of Matplotlib we can visualize the data
 
 # One
 ![](visuals/one.png)
+
+# Data in the form of an array
+
+![](visuals/image_array.png)
+
+# Model building
+
+Using Support Vector Machine we can classify the data and with the help of train and test split we can train the model to perform with a better accuracy
+
+![](visuals/heatmap.png)
+
+# Conclusion
+
+We can come to conclusion that our our SVM model can predict with 97.77% accurately
