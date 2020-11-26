@@ -25,4 +25,4 @@ Using Support Vector Machine we can classify the data and with the help of train
 
 # Conclusion
 
-We can come to conclusion that our our SVM model can predict with 97.77% accurately
+We can come to conclusion that our our SVM model can predict with 97.77% accuracy
